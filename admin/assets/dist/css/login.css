@@ -1,0 +1,6 @@
+.theme-green-dark{
+	background: url(../img/login/bg_login1.jpg)no-repeat top center;
+    background-size: cover;
+}
+.form-wrapper{}
+.form-wrapper:after{content: '';}

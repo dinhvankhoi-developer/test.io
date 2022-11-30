@@ -1,0 +1,37 @@
+
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('../webfonts/fontawesome-webfont.eot?v=4.6.3');
+	src: url('../webfonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('../webfonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('../webfonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('../webfonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('../webfonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+    font-family: 'Arial';
+    src: url('../webfonts/Arial.ttf');
+}
+@font-face {
+    font-family: 'Arial-Bold';
+    src: url('../webfonts/Arial-Bold.ttf');
+}
+@font-face {
+    font-family: 'Arial-Italic';
+    src: url('../webfonts/Arial-Italic.ttf');
+}
+@font-face {
+    font-family: 'SR';
+    src: url('../webfonts/SFUDaxCondensedRegular.TTF');
+}
+@font-face {
+    font-family: 'SB';
+    src: url('../webfonts/SFUDaxCondensedBold.TTF');
+}
+@font-face {
+    font-family: 'SL';
+    src: url('../webfonts/SFUDaxCondensedLight.TTF');
+}
+@font-face {
+    font-family: 'SM';
+    src: url('../webfonts/SFUDaxCondensedMedium.TTF');
+}
